@@ -4,15 +4,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mybooktable\n"
 "Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
-"POT-Creation-Date: 2014-05-17 14:22+0900\n"
-"PO-Revision-Date: 2014-05-17 15:38+0900\n"
-"Last-Translator: YAT <yat@yat-net.com>\n"
+"POT-Creation-Date: 2014-05-16 10:01+0900\n"
+"PO-Revision-Date: 2014-05-17 16:40+0900\n"
+"Last-Translator: masayuki abe <YOUR-EMAIL@abe.com>\n"
 "Language-Team: WordBench <yat@yat-net.com>\n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.4\n"
+"X-Generator: Poedit 1.6.5\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -25,43 +25,43 @@ msgstr "本"
 
 #: ../includes/post_types.php:19
 msgid "Book"
-msgstr ""
+msgstr "本"
 
 #: ../includes/post_types.php:21 ../includes/post_types.php:22
 msgid "Add New Book"
-msgstr ""
+msgstr "新しく本を追加"
 
 #: ../includes/post_types.php:23
 msgid "New Book"
-msgstr ""
+msgstr "新しい本"
 
 #: ../includes/post_types.php:24
 msgid "Edit Book"
-msgstr ""
+msgstr "本を編集"
 
 #: ../includes/post_types.php:25
 msgid "View Book"
-msgstr ""
+msgstr "本を表示"
 
 #: ../includes/post_types.php:26
 msgid "Update Book"
-msgstr ""
+msgstr "本を更新"
 
 #: ../includes/post_types.php:27
 msgid "Search Books"
-msgstr ""
+msgstr "本を検索"
 
 #: ../includes/post_types.php:28
 msgid "Parent Book"
-msgstr ""
+msgstr "親カテゴリーのブック"
 
 #: ../includes/post_types.php:29
 msgid "Parent Book:"
-msgstr ""
+msgstr "親カテゴリーのブック:"
 
 #: ../includes/taxonomies.php:19 ../includes/templates.php:660
 msgid "Authors"
-msgstr ""
+msgstr "著者"
 
 #: ../includes/taxonomies.php:20 ../includes/templates.php:323
 #: ../includes/templates.php:660
@@ -70,154 +70,157 @@ msgstr "著者"
 
 #: ../includes/taxonomies.php:21
 msgid "All Authors"
-msgstr ""
+msgstr "全ての著者"
 
 #: ../includes/taxonomies.php:22 ../includes/taxonomies.php:42
 #: ../includes/taxonomies.php:62
 msgid "Add New"
-msgstr "新規追加"
+msgstr "新しく追加"
 
 #: ../includes/taxonomies.php:23
 msgid "Add New Author"
-msgstr "著者を追加する"
+msgstr "新しく著者を追加"
 
 #: ../includes/taxonomies.php:24
 msgid "New Author"
-msgstr ""
+msgstr "新しい著者"
 
 #: ../includes/taxonomies.php:25
 msgid "Edit Author"
-msgstr ""
+msgstr "著者を編集"
 
 #: ../includes/taxonomies.php:26
 msgid "View Authors"
-msgstr ""
+msgstr "著者を表示"
 
 #: ../includes/taxonomies.php:27
 msgid "Update Author"
-msgstr ""
+msgstr "著者を更新"
 
 #: ../includes/taxonomies.php:28
 msgid "Search Authors"
-msgstr ""
+msgstr "著者を検索"
 
 #: ../includes/taxonomies.php:29
 msgid "Parent Author"
-msgstr ""
+msgstr "親カテゴリーの著者"
 
 #: ../includes/taxonomies.php:30
 msgid "Parent Authors:"
-msgstr ""
+msgstr "親カテゴリーの著者:"
 
 #: ../includes/taxonomies.php:39 ../includes/templates.php:667
 msgid "Genres"
-msgstr ""
+msgstr "ジャンル"
 
 #: ../includes/taxonomies.php:40 ../includes/templates.php:325
 #: ../includes/templates.php:667
 msgid "Genre"
-msgstr ""
+msgstr "ジャンル"
 
 #: ../includes/taxonomies.php:41
 msgid "All Genres"
-msgstr ""
+msgstr "すべてのジャンル"
 
 #: ../includes/taxonomies.php:43
 msgid "Add New Genre"
-msgstr ""
+msgstr "新しくジャンルを追加"
 
 #: ../includes/taxonomies.php:44
 msgid "New Genre"
-msgstr ""
+msgstr "新しいジャンル"
 
 #: ../includes/taxonomies.php:45
 msgid "Edit Genre"
-msgstr ""
+msgstr "ジャンルを編集"
 
 #: ../includes/taxonomies.php:46
 msgid "View Genres"
-msgstr ""
+msgstr "ジャンルを表示"
 
 #: ../includes/taxonomies.php:47
 msgid "Update Genre"
-msgstr ""
+msgstr "ジャンルを更新"
 
 #: ../includes/taxonomies.php:48
 msgid "Search Genres"
-msgstr ""
+msgstr "ジャンルを検索"
 
 #: ../includes/taxonomies.php:49
 msgid "Parent Genre"
-msgstr ""
+msgstr "親カテゴリーのジャンル"
 
 #: ../includes/taxonomies.php:50
 msgid "Parent Genres:"
-msgstr ""
+msgstr "親カテゴリーのジャンル:"
 
 #: ../includes/taxonomies.php:59 ../includes/taxonomies.php:60
 #: ../includes/templates.php:327 ../includes/templates.php:639
 msgid "Series"
-msgstr ""
+msgstr "シリーズ"
 
 #: ../includes/taxonomies.php:61
 msgid "All Series"
-msgstr ""
+msgstr "全てのシリーズ"
 
 #: ../includes/taxonomies.php:63
 msgid "Add New Series"
-msgstr ""
+msgstr "新しくシリーズを追加"
 
 #: ../includes/taxonomies.php:64
 msgid "New Series"
-msgstr ""
+msgstr "新しいシリーズ"
 
 #: ../includes/taxonomies.php:65
 msgid "Edit Series"
-msgstr ""
+msgstr "シリーズを編集"
 
 #: ../includes/taxonomies.php:66
 msgid "View Series"
-msgstr ""
+msgstr "シリーズを表示"
 
 #: ../includes/taxonomies.php:67
 msgid "Update Series"
-msgstr ""
+msgstr "シリーズを更新"
 
 #: ../includes/taxonomies.php:68
 msgid "Search Series"
-msgstr ""
+msgstr "シリーズを検索"
 
 #: ../includes/taxonomies.php:69
 msgid "Parent Series"
-msgstr ""
+msgstr "親カテゴリーのシリーズ"
 
 #: ../includes/taxonomies.php:70
 msgid "Parent Series:"
-msgstr ""
+msgstr "親カテゴリーのシリーズ:"
 
 #: ../includes/taxonomies.php:113
 msgid "Image"
-msgstr ""
+msgstr "画像"
 
 #: ../includes/templates.php:392
 msgid "Back"
-msgstr ""
+msgstr "戻る"
 
 #: ../includes/templates.php:393
+#, fuzzy
 msgid "More Books"
-msgstr ""
+msgstr "他の本"
 
 #: ../includes/templates.php:552
+#, fuzzy
 msgid "Other book sellers"
-msgstr ""
+msgstr "他の本の販売"
 
 #: ../includes/templates.php:563
 msgid "More info"
-msgstr ""
+msgstr "もっと"
 
 #: ../includes/templates.php:684
+#, fuzzy
 msgid "Other books in"
-msgstr ""
+msgstr "他の本"
 
 #: ../templates/single-book/content.php:14
 msgid ""
@@ -229,7 +232,12 @@ msgid ""
 "Part 255</a>: \"Guides Concerning the Use of Endorsements and Testimonials "
 "in Advertising.\""
 msgstr ""
+"上記ページ内のリンク中にある\"affiliate links.\"はリンクをクリックしてアイテ"
+"ムを購入した場合、アフィリエイト報酬を受け取ることを意味します。米連邦取引委"
+"員会に従いこの情報を開示しています。広告における証明書と署名利用に関するガイ"
+"ド:<a href=\"http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html"
+"\" target=\"_blank\">16 CFR, Part 255</a>"
 
 #: ../templates/single-book/overview.php:2
 msgid "Book Overview"
-msgstr ""
+msgstr "本の概要"

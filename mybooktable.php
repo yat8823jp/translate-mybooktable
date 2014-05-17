@@ -85,9 +85,6 @@ function mbt_customize_plugins_page() {
 function mbt_plugin_action_links($actions) {
 	$actions['settings'] = '<a href="'.admin_url('admin.php?page=mbt_settings').'">Settings</a>';
 	return $actions;
-<<<<<<< HEAD
-}
-=======
 }
 
 /*---------------------------------------------------------*/
@@ -98,4 +95,3 @@ function myplugin_load_textdomain() {
 	load_plugin_textdomain( 'mybooktable', false, dirname( plugin_basename( __FILE__ ) ) . '/lang/' );
 }
 add_action( 'plugins_loaded', 'myplugin_load_textdomain' );
->>>>>>> 6b529df70ab5cd28739a16b281da831b00c6a4fb

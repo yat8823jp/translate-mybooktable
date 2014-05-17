@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mybooktable\n"
 "Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
-"POT-Creation-Date: 2014-05-17 14:22+0900\n"
-"PO-Revision-Date: 2014-05-17 15:10+0900\n"
+"POT-Creation-Date: 2014-05-17 16:04+0900\n"
+"PO-Revision-Date: 2014-05-17 16:07+0900\n"
 "Last-Translator: masayuki abe <YOUR-EMAIL@abe.com>\n"
 "Language-Team: WordBench <yat@yat-net.com>\n"
 "Language: ja_JP\n"
@@ -21,7 +21,7 @@ msgstr ""
 #: ../includes/post_types.php:18 ../includes/post_types.php:20
 #: ../includes/templates.php:335
 msgid "Books"
-msgstr ""
+msgstr "本"
 
 #: ../includes/post_types.php:19
 msgid "Book"
@@ -29,27 +29,27 @@ msgstr "本"
 
 #: ../includes/post_types.php:21 ../includes/post_types.php:22
 msgid "Add New Book"
-msgstr ""
+msgstr "新しい本の情報を追加する"
 
 #: ../includes/post_types.php:23
 msgid "New Book"
-msgstr ""
+msgstr "新しい本"
 
 #: ../includes/post_types.php:24
 msgid "Edit Book"
-msgstr ""
+msgstr "本の情報を編集する"
 
 #: ../includes/post_types.php:25
 msgid "View Book"
-msgstr ""
+msgstr "本を見る"
 
 #: ../includes/post_types.php:26
 msgid "Update Book"
-msgstr ""
+msgstr "本を更新する"
 
 #: ../includes/post_types.php:27
 msgid "Search Books"
-msgstr ""
+msgstr "本を検索する"
 
 #: ../includes/post_types.php:28
 msgid "Parent Book"
@@ -61,7 +61,7 @@ msgstr ""
 
 #: ../includes/taxonomies.php:19 ../includes/templates.php:660
 msgid "Authors"
-msgstr ""
+msgstr "著者"
 
 #: ../includes/taxonomies.php:20 ../includes/templates.php:323
 #: ../includes/templates.php:660
@@ -70,7 +70,7 @@ msgstr "著者"
 
 #: ../includes/taxonomies.php:21
 msgid "All Authors"
-msgstr ""
+msgstr "全ての著者"
 
 #: ../includes/taxonomies.php:22 ../includes/taxonomies.php:42
 #: ../includes/taxonomies.php:62
@@ -83,15 +83,15 @@ msgstr "著者を追加する"
 
 #: ../includes/taxonomies.php:24
 msgid "New Author"
-msgstr ""
+msgstr "新しい著者"
 
 #: ../includes/taxonomies.php:25
 msgid "Edit Author"
-msgstr ""
+msgstr "著者を編集する"
 
 #: ../includes/taxonomies.php:26
 msgid "View Authors"
-msgstr ""
+msgstr "著者を見る"
 
 #: ../includes/taxonomies.php:27
 msgid "Update Author"
@@ -111,32 +111,32 @@ msgstr ""
 
 #: ../includes/taxonomies.php:39 ../includes/templates.php:667
 msgid "Genres"
-msgstr ""
+msgstr "ジャンル"
 
 #: ../includes/taxonomies.php:40 ../includes/templates.php:325
 #: ../includes/templates.php:667
 msgid "Genre"
-msgstr ""
+msgstr "ジャンル"
 
 #: ../includes/taxonomies.php:41
 msgid "All Genres"
-msgstr ""
+msgstr "全てのジャンル"
 
 #: ../includes/taxonomies.php:43
 msgid "Add New Genre"
-msgstr ""
+msgstr "新しいジャンルを追加する"
 
 #: ../includes/taxonomies.php:44
 msgid "New Genre"
-msgstr ""
+msgstr "新しいジャンル"
 
 #: ../includes/taxonomies.php:45
 msgid "Edit Genre"
-msgstr ""
+msgstr "ジャンルを編集する"
 
 #: ../includes/taxonomies.php:46
 msgid "View Genres"
-msgstr ""
+msgstr "ジャンルを見る"
 
 #: ../includes/taxonomies.php:47
 msgid "Update Genre"
@@ -157,27 +157,27 @@ msgstr ""
 #: ../includes/taxonomies.php:59 ../includes/taxonomies.php:60
 #: ../includes/templates.php:327 ../includes/templates.php:639
 msgid "Series"
-msgstr ""
+msgstr "シリーズ"
 
 #: ../includes/taxonomies.php:61
 msgid "All Series"
-msgstr ""
+msgstr "全てのシリーズ"
 
 #: ../includes/taxonomies.php:63
 msgid "Add New Series"
-msgstr ""
+msgstr "新しいシリーズを追加する"
 
 #: ../includes/taxonomies.php:64
 msgid "New Series"
-msgstr ""
+msgstr "新しいシリーズ"
 
 #: ../includes/taxonomies.php:65
 msgid "Edit Series"
-msgstr ""
+msgstr "シリーズを編集する"
 
 #: ../includes/taxonomies.php:66
 msgid "View Series"
-msgstr ""
+msgstr "シリーズを見る"
 
 #: ../includes/taxonomies.php:67
 msgid "Update Series"
@@ -197,11 +197,11 @@ msgstr ""
 
 #: ../includes/taxonomies.php:113
 msgid "Image"
-msgstr ""
+msgstr "画像"
 
 #: ../includes/templates.php:392
 msgid "Back"
-msgstr ""
+msgstr "戻る"
 
 #: ../includes/templates.php:393
 msgid "More Books"
@@ -232,4 +232,4 @@ msgstr ""
 
 #: ../templates/single-book/overview.php:2
 msgid "Book Overview"
-msgstr ""
+msgstr "本の概要"

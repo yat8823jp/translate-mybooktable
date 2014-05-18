@@ -6,3 +6,4 @@ https://wordpress.org/plugins/mybooktable/
 
 mybooktableプラグインの日本語化ファイルです。
 https://wordpress.org/plugins/mybooktable/
+
